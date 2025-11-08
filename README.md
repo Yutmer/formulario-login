@@ -23,3 +23,11 @@ Puedes iniciar sesión con los siguientes usuarios:
 1. Clona el repositorio
 2. Abre `index.html` en tu navegador
 3. Prueba iniciar sesión con los usuarios predefinidos
+
+## 🛠️ Tecnologías usadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- SweetAlert2
+

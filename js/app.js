@@ -8,3 +8,7 @@ const validarInicioSesion = (usuarioInput, claveInput) =>
         usuario => usuario.usuario === usuarioInput && usuario.clave === claveInput
     );
 
+document.querySelector(".boton").addEventListener("click", () => {
+    const usuario = document.getElementById("usuario").value.trim();
+    const clave = document.getElementById("pasword").value.trim();
+});

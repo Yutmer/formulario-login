@@ -1,6 +1,7 @@
 const usuariosRegistrados = [
     new Usuario("pedro12", "123"),
     new Usuario("carlos29", "345"),
+    //new Usuario("maria", "111")
 ];
 
 const validarInicioSesion = (usuarioInput, claveInput) =>
